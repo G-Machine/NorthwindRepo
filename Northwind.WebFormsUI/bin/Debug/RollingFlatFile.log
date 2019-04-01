@@ -1,0 +1,30 @@
+Timestamp: 28.03.2019 16:39:55
+
+Message: HandlingInstanceID: e1f1d8ce-9b1f-4882-b669-9d3086fe8716
+An exception of type 'Common.Helpers.ExceptionHandling.DataAccessException' occurred and was caught.
+----------------------------------------------------------------------------------------------------
+03/28/2019 16:39:55
+Type : Common.Helpers.ExceptionHandling.DataAccessException, Helpers, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Message : An unknown error has occurred in Data Access Layer while processing your request. Please contract Help Desk Support at X-XXX-XXX-XXXX with Error Token ID e1f1d8ce-9b1f-4882-b669-9d3086fe8716.
+Source : 
+Help link : 
+Data : System.Collections.ListDictionaryInternal
+TargetSite : 
+HResult : -2146233088
+Stack Trace : The stack trace is unavailable.
+Additional Info:
+
+MachineName : LAPTOP-F552ORLF
+TimeStamp : 28.03.2019 15:39:55
+FullName : Microsoft.Practices.EnterpriseLibrary.ExceptionHandling, Version=6.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+AppDomainName : Northwind.WebFormsUI.exe
+ThreadIdentity : 
+WindowsIdentity : LAPTOP-F552ORLF\gvnsl
+
+
+Category: General
+
+Priority: 0
+
+Severity: Error
+----------------------------------

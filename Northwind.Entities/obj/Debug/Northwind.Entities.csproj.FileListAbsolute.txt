@@ -1,0 +1,10 @@
+D:\SoftwareDevolopment\TechnolgieTutorials\DotNet-C#\C#AdanZyeProfeoyenelProgramcilikEnginDemir\MyNLayeredAppDemo2\Northwind.Entities\bin\Debug\Northwind.Entities.dll
+D:\SoftwareDevolopment\TechnolgieTutorials\DotNet-C#\C#AdanZyeProfeoyenelProgramcilikEnginDemir\MyNLayeredAppDemo2\Northwind.Entities\bin\Debug\Northwind.Entities.pdb
+D:\SoftwareDevolopment\TechnolgieTutorials\DotNet-C#\C#AdanZyeProfeoyenelProgramcilikEnginDemir\MyNLayeredAppDemo2\Northwind.Entities\obj\Debug\Northwind.Entities.csproj.CoreCompileInputs.cache
+D:\SoftwareDevolopment\TechnolgieTutorials\DotNet-C#\C#AdanZyeProfeoyenelProgramcilikEnginDemir\MyNLayeredAppDemo2\Northwind.Entities\obj\Debug\Northwind.Entities.dll
+D:\SoftwareDevolopment\TechnolgieTutorials\DotNet-C#\C#AdanZyeProfeoyenelProgramcilikEnginDemir\MyNLayeredAppDemo2\Northwind.Entities\obj\Debug\Northwind.Entities.pdb
+C:\Users\gvnsl\Desktop\MyNLayeredAppDemo2\Northwind.Entities\bin\Debug\Northwind.Entities.dll
+C:\Users\gvnsl\Desktop\MyNLayeredAppDemo2\Northwind.Entities\bin\Debug\Northwind.Entities.pdb
+C:\Users\gvnsl\Desktop\MyNLayeredAppDemo2\Northwind.Entities\obj\Debug\Northwind.Entities.csproj.CoreCompileInputs.cache
+C:\Users\gvnsl\Desktop\MyNLayeredAppDemo2\Northwind.Entities\obj\Debug\Northwind.Entities.dll
+C:\Users\gvnsl\Desktop\MyNLayeredAppDemo2\Northwind.Entities\obj\Debug\Northwind.Entities.pdb
